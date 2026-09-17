@@ -54,4 +54,4 @@ No exemplo, os lugares críticos são **2** e **5**.
 
 **Grafo:**
 
-![alt text](image.png)
+![alt text](images/graph.png)
