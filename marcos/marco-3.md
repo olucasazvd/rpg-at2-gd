@@ -70,7 +70,7 @@ Convenções (iguais às do `Biconnected.java`):
 #### Estado final
 
 | Cidade | tin | low | Articulação? |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | 0 | 0 | não | 
 | 2 | 4 | 0 | não | 
 | 3 | 1 | 0 | **sim** | 
@@ -88,8 +88,7 @@ Seja `V` o número de cidades e `E` o número de cabos.
 **Memória extra do algoritmo:**
 
 - vetores `pre`, `low` e `articulation`: O(V);
-- pilha da recursão da DFS: O(V) no pior caso (grafo em forma de caminho);
-- matriz booleana `V × V` para descartar cabos repetidos: O(V²). Alternativa com conjunto de pares (hash): O(E).
+- pilha da recursão da DFS: O(V) no pior caso (grafo em forma de caminho)
 
 **Tempo:**
 
