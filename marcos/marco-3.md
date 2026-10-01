@@ -69,7 +69,7 @@ Convenções (iguais às do `Biconnected.java`):
 
 #### Estado final
 
-| Cidade | tin | low | Articulação? | Motivo |
+| Cidade | tin | low | Articulação? |
 |---|---|---|---|---|
 | 1 | 0 | 0 | não | 
 | 2 | 4 | 0 | não | 
