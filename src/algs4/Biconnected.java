@@ -66,3 +66,11 @@ public class Biconnected {
 
 
 }
+
+/******************************************************************************
+ *  Alteracoes em relacao ao original do algs4:
+ *
+ *  - Adicionada a declaracao package algs4.
+ *  - Removido o metodo main de teste, que dependia das classes GraphGenerator e StdOut
+ *    (nao incluidas no projeto).
+ ******************************************************************************/

@@ -162,3 +162,11 @@ public class Bag<Item> implements Iterable<Item> {
  *  You should have received a copy of the GNU General Public License
  *  along with algs4.jar.  If not, see http://www.gnu.org/licenses.
  ******************************************************************************/
+
+/******************************************************************************
+ *  Alteracoes em relacao ao original do algs4:
+ *
+ *  - Pacote alterado de edu.princeton.cs.algs4 para algs4.
+ *  - Removido o metodo main de teste, que dependia das classes StdIn e StdOut
+ *    (nao incluidas no projeto).
+ ******************************************************************************/

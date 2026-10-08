@@ -174,3 +174,11 @@ public class Stack<Item> implements Iterable<Item> {
      * @param args the command-line arguments
      */
 }
+
+/******************************************************************************
+ *  Alteracoes em relacao ao original do algs4:
+ *
+ *  - Pacote alterado de edu.princeton.cs.algs4 para algs4.
+ *  - Removido o metodo main de teste, que dependia das classes StdIn e StdOut
+ *    (nao incluidas no projeto).
+ ******************************************************************************/
